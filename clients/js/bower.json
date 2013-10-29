@@ -1,0 +1,7 @@
+{
+    "name": "babbel",
+    "version": "0.0.1",
+    "main": ["./babbel.js", "./babbel.min.js"],
+    "ignore": ["Gruntfile.js", "README.md"],
+    "dependencies": {}
+}

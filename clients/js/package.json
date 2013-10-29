@@ -1,0 +1,22 @@
+{
+    "name": "babbel",
+    "version": "0.0.1",
+    "description": "Babbel",
+    "main": "babbel.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jbohman/babbel.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jbohman/babbel/issues"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-uglify": "~0.2.2",
+        "grunt-notify": "~0.2.7",
+        "grunt-contrib-watch": "~0.5.1",
+        "grunt-contrib-jshint": "~0.6.2",
+        "grunt-exec": "~0.4.2",
+        "fast-json-patch": "git+https://github.com/Starcounter-Jack/JSON-Patch.git"
+    }
+}
